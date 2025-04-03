@@ -4,8 +4,8 @@ This repository contains scripts for training an AI model on datasets like Fashi
 ## **Part 1: Model Training on Google Colab**  
 
 ### **Step 1: Access Model Training Code**  
-1. Go to the [`model` folder](https://github.com/francesco25hyrtenhch/AI-Resist-Group-Campus-A/model) in our repository
-2. Open [ `Ai_Resit_Group_YIBS_2025.ipynb`](https://github.com/francesco25hyrtenhch/AI-Resist-Group-Campus-A/Ai_Resit_Group_YIBS_2025.ipynb) 
+1. Go to the [`model` folder](https://github.com/francesco25hyrtenhch/AI-Resist-Group-Campus-A/tree/main/model) in our repository
+2. Open [ `Ai_Resit_Group_YIBS_2025.ipynb`](https://github.com/francesco25hyrtenhch/AI-Resist-Group-Campus-A/blob/main/Ai_Resit_Group_YIBS_2025.ipynb) 
 3. Click the "Open in Colab" button (top-right) 
 
 ### **Step 2: Run in Google Colab**  
